@@ -1,6 +1,6 @@
 # Attention
 
-This is a for of original project:
+This is a fork of original project:
 https://github.com/LaravelDaily/Laravel-KnowledgeBase-FAQ
 
 It'd changed for using in  private infrastructure.

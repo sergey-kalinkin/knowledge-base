@@ -1,3 +1,11 @@
+# Attention
+
+This is a for of original project:
+https://github.com/LaravelDaily/Laravel-KnowledgeBase-FAQ
+
+It'd changed for using in  private infrastructure.
+---
+
 # Laravel 8 Knowledge Base FAQ with Adminpanel
 
 Transformed [free Bootstrap theme](https://github.com/sunnyg1210/bootstrapKnowledgeBaseTheme) into fully manageable Laravel 8 project with adminpanel generated with [QuickAdminPanel](https://quickadminpanel.com), 
